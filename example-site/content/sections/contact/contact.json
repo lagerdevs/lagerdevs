@@ -1,0 +1,13 @@
+{
+    "name": "Lager Devs",
+    "email": "info@lagerdevs.com",
+    "description": "Ante cualquier consulta no dudes en contactarnos.",
+    "image": {
+        "src": "../../images/logo.png",
+        "alt": "Lager logo"
+    },
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": true
+    }
+}

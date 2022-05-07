@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "visible": true,
+            "category": "🔥 RESPETO, COMPROMISO Y SENSUALIDAD",
+            "title": "My Queen Club",
+            "description": "My Queens Club es un proyecto iniciado por un emprendedor y amante de la fotografía. Es un lugar en donde las mujeres pueden expresarse sin ningún tipo de censura, y mostrarse como ellas lo deseen.",
+            "tags": ["Galerias"],
+            "image": {
+                "src": "../../images/mqc.png",
+                "alt": "My queen club logo",
+                "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+                },
+                {
+                    "type": "external",
+                    "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "🚗 GESTORIA DE SINIESTROS",
+            "title": "El Genio del Siniestro",
+            "description": "Un accidente de tránsito es siempre una experiencia difícil. A veces, el miedo y el estrés nos impiden reaccionar adecuadamente. Por ese motivo, es muy importante saber de antemano, qué pasos debemos seguir.",
+            "tags": ["Siniestros"],
+            "image": {
+                "src": "../../images/perito.png",
+                "alt": "Extendable Layout"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+                }
+            ]
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "Visit on Github",
+        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    }
+}

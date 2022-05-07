@@ -1,0 +1,17 @@
+{
+    "intro": "Hola",
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "Somos Lager devs!",
+    "subtitle": {
+        "prefix": "Es tiempo de demostrarle al mundo de lo que sos ",
+        "highlight": "capaz",
+        "suffix": "."
+    },
+    "socialProfiles": {
+        "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": false
+    }
+}

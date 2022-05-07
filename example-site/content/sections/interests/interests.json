@@ -1,0 +1,58 @@
+{
+    "interests": [
+        {
+            "label": "ReactJs",
+            "image": {
+                "src": "../../images/joystick.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Diseño grafico",
+            "image": {
+                "src": "../../images/notebook.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Diseño Responsive",
+            "image": {
+                "src": "../../images/nail-polish.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Community Manager",
+            "image": {
+                "src": "../../images/nail-polish.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Animaciones",
+            "image": {
+                "src": "../../images/gem-stone.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "PWA (Soporte Offline)",
+            "image": {
+                "src": "../../images/mobile-phone.png",
+                "alt": ""
+            }
+        },
+        {
+            "label": "Modern Tech-Stack",
+            "image": {
+                "src": "../../images/gatsby.png",
+                "alt": ""
+            }
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}
