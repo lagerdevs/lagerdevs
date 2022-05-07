@@ -3,6 +3,6 @@ export const socialProfileLabels = {
     github: 'GitHub',
     medium: 'Medium',
     linkedin: 'LinkedIn',
-    mail: 'Mail',
+    mail: 'Contactarme',
     twitter: 'Twitter',
 };

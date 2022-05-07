@@ -2,7 +2,7 @@
     "name": "gatsby-theme-portfolio-minimal",
     "version": "0.1.0",
     "license": "MIT",
-    "author": "Konstantin Münster <mail@konstantin.digital>",
+    "author": "LagerDevs <info@lagerdevs.com>",
     "main": "index.js",
     "scripts": {
         "build": "gatsby build",
