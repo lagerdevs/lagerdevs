@@ -12,10 +12,10 @@ import {
 export default function IndexPage() {
     return (
         <>
-            <Seo title="Lager devs - Software Factory" />
+            <Seo title="Lager Devs" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
-                <AboutSection sectionId="nosotros" heading="Sobre Nosotros" />
+                <AboutSection sectionId="nosotros" heading="Sobre nosotros" />
                 <InterestsSection sectionId="servicios" heading="Servicios" />
                 <ProjectsSection sectionId="clientes" heading="Nuestros clientes" />
                 <ContactSection sectionId="contacto" heading="Contactanos" />

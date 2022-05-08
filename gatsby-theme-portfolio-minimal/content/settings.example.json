@@ -20,7 +20,7 @@
         "logo": { "text": "" },
         "navigation": {
             "header": [
-                { "label": "Sobre Nosotros", "url": "/#nosotros" },
+                { "label": "Sobre nosotros", "url": "/#nosotros" },
                 { "label": "Servicios", "url": "#/servicios" },
                 { "label": "Clientes", "url": "/#clientes" },
                 { "label": "Contactarme", "url": "/#contacto" }
