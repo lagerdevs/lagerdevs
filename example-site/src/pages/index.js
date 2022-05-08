@@ -15,10 +15,10 @@ export default function IndexPage() {
             <Seo title="Lager devs - Software Factory" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
-                <AboutSection sectionId="about" heading="Sobre Nosotros" />
-                <InterestsSection sectionId="details" heading="Servicios" />
-                <ProjectsSection sectionId="features" heading="Nuestros clientes" />
-                <ContactSection sectionId="github" heading="Contactanos" />
+                <AboutSection sectionId="nosotros" heading="Sobre Nosotros" />
+                <InterestsSection sectionId="servicios" heading="Servicios" />
+                <ProjectsSection sectionId="clientes" heading="Nuestros clientes" />
+                <ContactSection sectionId="contacto" heading="Contactanos" />
             </Page>
         </>
     );

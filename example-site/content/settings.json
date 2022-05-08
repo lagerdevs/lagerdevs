@@ -22,10 +22,10 @@
         "logo": { "text": "../content/images/logo.png"},
         "navigation": {
             "header": [
-                { "label": "Sobre Nosotros", "url": "/#about" },
-                { "label": "Servicios", "url": "/#details" },
-                { "label": "Nuestros Clientes", "url": "/#features" },
-                { "label": "Contactanos", "url": "/#github" }
+                { "label": "Nosotros", "url": "/#nosotros" },
+                { "label": "Servicios", "url": "/#servicios" },
+                { "label": "Clientes", "url": "/#clientes" },
+                { "label": "Contactanos", "url": "/#contacto" }
             ],
             "footer": [
                 { "label": "Privacy", "url": "/privacy" },

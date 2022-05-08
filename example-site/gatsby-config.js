@@ -6,7 +6,7 @@ module.exports = {
                 // siteUrl: "https://example.com", // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/logo.png', // Path is relative to the root
-                    siteName: 'Lager devs - Software Factory', // Used in manifest.json
+                    siteName: 'Lager Devs - Software Factory', // Used in manifest.json
                     shortName: 'Lager devs', // Used in manifest.json
                     startUrl: '/', // Used in manifest.json
                     backgroundColor: '#FFFFFF', // Used in manifest.json

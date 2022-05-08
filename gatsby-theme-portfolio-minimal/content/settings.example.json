@@ -20,10 +20,10 @@
         "logo": { "text": "" },
         "navigation": {
             "header": [
-                { "label": "About", "url": "/#about" },
-                { "label": "Blog", "url": "/blog" },
-                { "label": "Features", "url": "/#features" },
-                { "label": "Github", "url": "/#github" }
+                { "label": "Sobre Nosotros", "url": "/#nosotros" },
+                { "label": "Servicios", "url": "#/servicios" },
+                { "label": "Clientes", "url": "/#clientes" },
+                { "label": "Contactarme", "url": "/#contacto" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
             "footer": [
