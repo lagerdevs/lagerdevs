@@ -1,9 +1,12 @@
 .Interests {
-    display: grid;
+    /* display: grid;
     grid-template-columns: repeat(1, 17.5rem);
     grid-auto-flow: row;
     column-gap: 1rem;
-    row-gap: 1rem;
+    row-gap: 1rem; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .Interest {

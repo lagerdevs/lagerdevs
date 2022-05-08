@@ -1,21 +1,14 @@
 {
     "interests": [
         {
-            "label": "ReactJs",
+            "label": "Diseño y Desarrollo Web",
             "image": {
-                "src": "../../images/joystick.png",
+                "src": "../../images/react.png",
                 "alt": ""
             }
         },
         {
             "label": "Diseño grafico",
-            "image": {
-                "src": "../../images/notebook.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "Diseño Responsive",
             "image": {
                 "src": "../../images/nail-polish.png",
                 "alt": ""
@@ -24,28 +17,7 @@
         {
             "label": "Community Manager",
             "image": {
-                "src": "../../images/nail-polish.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "Animaciones",
-            "image": {
-                "src": "../../images/gem-stone.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "PWA (Soporte Offline)",
-            "image": {
-                "src": "../../images/mobile-phone.png",
-                "alt": ""
-            }
-        },
-        {
-            "label": "Modern Tech-Stack",
-            "image": {
-                "src": "../../images/gatsby.png",
+                "src": "../../images/notebook.png",
                 "alt": ""
             }
         }
