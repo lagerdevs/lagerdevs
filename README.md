@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on projects the Development of Websites, offering the personalized service of graphic Design and Community Manager
-- ⚡ Our Site <a href="https://linkedin.com/in/lagerdevs" target="blank">**www.lagerdevs.com</a>
+- ⚡ Our Site <p><a href="https://linkedin.com/in/lagerdevs" target="blank">**www.lagerdevs.com**</a></p>
 - 📫 How to reach me **info@lagerdevs.com**
 
 <h3 align="center">Connect with me:</h3>
