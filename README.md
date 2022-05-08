@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on **projects the Development of Websites, offering the personalized service of graphic Design and Community Manager**
-
+- 🔭 I’m currently working on projects the Development of Websites, offering the personalized service of graphic Design and Community Manager
+- ⚡ Our Site **www.lagerdevs.com**
 - 📫 How to reach me **info@lagerdevs.com**
 
 <h3 align="center">Connect with me:</h3>
