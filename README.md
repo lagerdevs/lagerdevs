@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, We're Lager Devs</h1>
+<h1 align="center">Hi 👋, We're Lager Devs</h1>![App Screenshot](https://i.postimg.cc/2SSrhzVh/iso-03-1.png)
+
 <h3 align="center">We are a Software Factory dedicated to the Design and Development of Websites. We do Graphic Design and Community Manager.</h3>
 
-![App Screenshot](https://i.postimg.cc/2SSrhzVh/iso-03-1.png)
+
 
 
 - 🔭 I’m currently working on **projects the Development of Websites, offering the personalized service of graphic Design and Community Manager**
