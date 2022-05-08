@@ -9,16 +9,16 @@
             "image": {
                 "src": "../../images/mqc.png",
                 "alt": "My queen club logo",
-                "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+                "linkTo": "#"
             },
             "links": [
                 {
                     "type": "github",
-                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+                    "url": "#"
                 },
                 {
                     "type": "external",
-                    "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+                    "url": "#"
                 }
             ]
         },
@@ -35,14 +35,14 @@
             "links": [
                 {
                     "type": "github",
-                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+                    "url": "#"
                 }
             ]
         }
     ],
     "button": {
-        "visible": true,
+        "visible": false,
         "label": "Visit on Github",
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+        "url": "#"
     }
 }

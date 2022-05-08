@@ -2,7 +2,6 @@ import React from 'react';
 import { GatsbyImage } from 'gatsby-plugin-image';
 import { Animation } from '../Animation';
 import { useMediaQuery } from '../../hooks/useMediaQuery';
-import { Icon } from '../Icon';
 import { ImageObject } from '../../types';
 import * as classes from './style.module.css';
 
@@ -52,23 +51,6 @@ export function Project(props: ProjectProps): React.ReactElement {
                                 <span key={key}>
                                     <u>{tag}</u>
                                 </span>
-                            );
-                        })}
-                </div>
-                <div className={classes.Links}>
-                    {props.data.links &&
-                        props.data.links.length !== 0 &&
-                        props.data.links.map((link, key) => {
-                            return (
-                                <a
-                                    key={key}
-                                    href={link.url}
-                                    target="_blank"
-                                    rel="nofollow noopener noreferrer"
-                                    aria-label="External Link"
-                                >
-                                    <Icon name={link.type} color="var(--subtext-color)" />
-                                </a>
                             );
                         })}
                 </div>
