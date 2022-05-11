@@ -5699,7 +5699,7 @@
   "resolved" "https://registry.npmjs.org/events/-/events-3.3.0.tgz"
   "version" "3.3.0"
 
-"example-site@file:C:\\Users\\RollingCode\\Desktop\\gatsby-theme-portfolio-minimal\\example-site":
+"example-site@file:C:\\Users\\Carlo\\Desktop\\LagerDevs\\lagerdevs\\example-site":
   "resolved" "file:example-site"
   "version" "0.1.0"
   dependencies:
@@ -6600,7 +6600,7 @@
     "lodash" "^4.17.21"
     "node-fetch" "^2.6.7"
 
-"gatsby-theme-portfolio-minimal@*", "gatsby-theme-portfolio-minimal@file:C:\\Users\\RollingCode\\Desktop\\gatsby-theme-portfolio-minimal\\gatsby-theme-portfolio-minimal":
+"gatsby-theme-portfolio-minimal@*", "gatsby-theme-portfolio-minimal@file:C:\\Users\\Carlo\\Desktop\\LagerDevs\\lagerdevs\\gatsby-theme-portfolio-minimal":
   "resolved" "file:gatsby-theme-portfolio-minimal"
   "version" "0.1.0"
   dependencies:

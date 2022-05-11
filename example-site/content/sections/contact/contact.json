@@ -7,7 +7,7 @@
         "alt": "Lager logo"
     },
     "socialProfiles": {
-        "from": ["LinkedIn", "Github", "Mail"],
+        "from": ["Mail"],
         "showIcons": true
     }
 }

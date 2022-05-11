@@ -1,6 +1,6 @@
 ---
 imageSrc: '../../images/2.png'
-imageAlt: 'About Gatsby Theme Portfolio Minimal'
+imageAlt: 'Sitio desarrollado en Gatsby'
 ---
 
 Somos una empresa que brinda servicios digitales, contamos con experiencia en desarrollo web, diseño gráfico, marketing digital y community manager.

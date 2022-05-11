@@ -1,14 +1,14 @@
 {
     "siteMetadata": {
-        "language": "en",
-        "siteUrl": "https://gatsby-theme-portfolio-minimal.netlify.app/",
+        "language": "sp",
+        "siteUrl": "https://www.lagerdevs.com",
         "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "title": "Lager devs - Software Factory",
-        "titleTemplate": "%s · A Gatsby Theme",
-        "description": "A Gatsby Theme to create a clean one-page portfolio with Markdown content.",
-        "author": "Konstantin Münster",
+        "title": "Lager Devs",
+        "titleTemplate": "%s",
+        "description": "Sitio diseñado y desarrollado por a LagerDevs.",
+        "author": "LagerDevs",
         "avatar": "../content/images/gatsby.png",
-        "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+        "bio": "",
         "social": {
             "behance": "https://www.lagerdevs.com",
             "github": "https://www.lagerdevs.com",
@@ -19,7 +19,7 @@
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "../content/images/logo.png"},
+        "logo": { "text": "../content/images/logo.png" },
         "navigation": {
             "header": [
                 { "label": "Nosotros", "url": "/#nosotros" },

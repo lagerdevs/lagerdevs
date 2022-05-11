@@ -70,10 +70,17 @@
 }
 
 .Project .ProjectImageWrapper {
-    width: 100%;
+    /* width: 100%;
     max-width: 25rem;
     height: 15rem;
+    border-radius: var(--border-radius);*/
+    /* width: auto;
+    height: auto; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: var(--border-radius);
+    background: transparent;
     box-shadow: 0 0 2.5rem var(--box-shadow-color);
     transition: all 0.3s ease-out;
 }
@@ -85,6 +92,8 @@
 
 .Project .ProjectImage {
     border-radius: var(--border-radius);
+    width: auto;
+    height: auto;
 }
 
 @media (min-width: 480px) {
