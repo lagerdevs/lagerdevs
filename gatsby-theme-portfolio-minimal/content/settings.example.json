@@ -1,11 +1,11 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "",
-        "title": "",
+        "siteUrl": "https://www.lagerdevs.com",
+        "title": "LagerDevs - Softwary Factory",
         "titleTemplate": "%s",
-        "description": "",
-        "author": "",
+        "description": "Empresa dedicada al desarrollo web, community manager y diseño grafico",
+        "author": "LagerDevs",
         "avatar": "",
         "bio": "",
         "social": {
@@ -17,7 +17,7 @@
         }
     },
     "siteConfiguration": {
-        "logo": { "text": "" },
+        "logo": { "text": "LagerDevs" },
         "navigation": {
             "header": [
                 { "label": "Sobre nosotros", "url": "/#nosotros" },
@@ -32,7 +32,7 @@
             ]
         },
         "featureToggles": {
-            "useDarkModeAsDefault": false,
+            "useDarkModeAsDefault": true,
             "useDarkModeBasedOnUsersPreference": true,
             "useCookieBar": false
         }
